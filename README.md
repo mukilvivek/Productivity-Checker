@@ -1,3 +1,4 @@
+# Productivity-Checker
 Summary
 
 This project is used to calculate whether or not you had a productive day. The productivity calculator file prompts the user to enter several inputs on how they spent their day, then calculates whether or not the day was productive. The data is then sent to SQL, which collects data for a number of days then creates a table on how productive you have been over a period of time.
